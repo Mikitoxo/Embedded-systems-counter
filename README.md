@@ -1,5 +1,5 @@
-//Embedded systems display counter from 0 to 9999 at 50 Hz using a 4 digit, seven segment display.
-//code is as follows: 
+Embedded systems display counter from 0 to 9999 at 50 Hz using a 4 digit, seven segment display.
+code is as follows: 
 
 
 
